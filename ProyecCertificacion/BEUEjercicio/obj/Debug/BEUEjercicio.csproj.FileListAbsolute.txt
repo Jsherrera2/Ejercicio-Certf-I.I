@@ -9,3 +9,4 @@ C:\Users\STALIN\source\repos\Ejercicio-Certf-I.I\ProyecCertificacion\BEUEjercici
 C:\Users\STALIN\source\repos\Ejercicio-Certf-I.I\ProyecCertificacion\BEUEjercicio\obj\Debug\BEUEjercicio.csproj.CopyComplete
 C:\Users\STALIN\source\repos\Ejercicio-Certf-I.I\ProyecCertificacion\BEUEjercicio\obj\Debug\BEUEjercicio.dll
 C:\Users\STALIN\source\repos\Ejercicio-Certf-I.I\ProyecCertificacion\BEUEjercicio\obj\Debug\BEUEjercicio.pdb
+C:\Users\STALIN\source\repos\Ejercicio-Certf-I.I\ProyecCertificacion\BEUEjercicio\obj\Debug\BEUEjercicio.csprojAssemblyReference.cache

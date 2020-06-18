@@ -38,15 +38,17 @@ namespace BEUEjercicio
 
         [DataType(DataType.Text)]
         [Required(ErrorMessage = "La cedula es requerida"), MaxLength(55)]
-        [Display(Name = "Cedula")]
+        [Display(Name = "Cédula")]
         public string cedula { get; set; }
 
        
-        [Display(Name = "Fecha de nacimiento")]
+        [Display(Name = "Fecha de Nacimiento")]
+        [DisplayFormat(DataFormatString = "{0:dd/MMM/yyyy }")]
+        [DataType(DataType.Date)]
         public Nullable<System.DateTime> fecha_nacimiento { get; set; }
 
         [DataType(DataType.Text)]
-        [Display(Name = "Lugar de nacimiento")]
+        [Display(Name = "Lugar de Nacimiento")]
         public string lugar_nacimiento { get; set; }
 
         [Display(Name = "Sexo")]

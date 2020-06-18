@@ -22,7 +22,7 @@ namespace UIEjercicio
 
         private void cargarListado()
         {
-            lsAlumnos.Rows.Clear();
+            this.lsAlumnos.DataSource = null;
             List<Alumno> alumnos = AlumnoBLL.List();
             lsAlumnos.DataSource = alumnos;
         }

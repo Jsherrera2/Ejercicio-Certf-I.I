@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProyecCertificacion",
+    "\\ProyecCertificacion\\BEUEjercicio",
+    "\\ProyecCertificacion\\ProyecCertificacion",
+    "\\ProyecCertificacion\\ProyecCertificacion\\Views",
+    "\\ProyecCertificacion\\ProyecCertificacion\\Views\\Alumnos",
+    "\\ProyecCertificacion\\ProyecCertificacion\\Views\\Home"
   ],
+  "SelectedNode": "\\ProyecCertificacion\\ProyecCertificacion\\Views\\Alumnos\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
